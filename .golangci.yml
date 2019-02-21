@@ -1,0 +1,8 @@
+run:
+  tests: false
+
+linters:
+  enable-all: true
+  disable:
+  # Details: https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html
+  - gochecknoglobals
