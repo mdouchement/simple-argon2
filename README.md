@@ -5,11 +5,11 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mdouchement/simple-argon2)](https://goreportcard.com/report/github.com/mdouchement/simple-argon2)
 [![License](https://img.shields.io/github/license/mdouchement/simple-argon2.svg)](http://opensource.org/licenses/MIT)
 
-simple-argon2 provides a convenience wrapper around Go's existing [argon2](golang.org/x/crypto/argon2) (formaly `argon2id`) package that makes it easier to securely derive strong keys ("hash user passwords").
+simple-argon2 provides a convenience wrapper around Go's existing [argon2](http://golang.org/x/crypto/argon2) (formaly `argon2id`) package that makes it easier to securely derive strong keys ("hash user passwords").
 
-It is strongly inspired of [github.com/elithrar/simple-scrypt](github.com/elithrar/simple-scrypt) package (source code, comments & readme).
+It is strongly inspired of [github.com/elithrar/simple-scrypt](https://github.com/elithrar/simple-scrypt) package (source code, comments & readme).
 
-The API closely mirrors Go's [bcrypt](golang.org/x/crypto/bcrypt) library in an effort to make it easy to migrate—and because it's an easy to grok API.
+The API closely mirrors Go's [bcrypt](http://golang.org/x/crypto/bcrypt) library in an effort to make it easy to migrate—and because it's an easy to grok API.
 
 ## Usage
 
