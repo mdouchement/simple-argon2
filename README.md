@@ -1,7 +1,6 @@
 # simple-argon2
 
-[![CircleCI](https://circleci.com/gh/mdouchement/simple-argon2.svg?style=shield)](https://circleci.com/gh/mdouchement/simple-argon2)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/mdouchement/simple-argon2)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/mdouchement/simple-argon2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mdouchement/simple-argon2)](https://goreportcard.com/report/github.com/mdouchement/simple-argon2)
 [![License](https://img.shields.io/github/license/mdouchement/simple-argon2.svg)](http://opensource.org/licenses/MIT)
 
